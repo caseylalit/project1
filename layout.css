@@ -1,13 +1,19 @@
 
-.mainDiv{width:1068px;background:#594e4e;margin:0px auto;overflow:hidden;}
-.header{padding:9px;overflow:hidden;}
-.header1{overflow:hidden;}
+.mainDiv{background:#FFF;width:1068px;;margin:0px auto;overflow:hidden;}
+.header{overflow:hidden;background:#594e4e}
+.header1{overflow:hidden;padding:10px;}
 .logo-text-outside-wrapper{float:left;width:100%;}
 .logo-text-inside-wrapper{float:left;}
 .image1{float:left;margin-right:15px;margin-bottom:40px;}
 .textWrapper{float:left;}	
 .main-navigation-wrapper{width:100%;float:left;}
-.sub-navigation-wrapper{float:left;}
-.menu-list{float:left;margin-right:10px;position:relative;}
-.search-bar{float:left;margin-right:10px;}
-.image2{float:left;}
+.sub-navigation-wrapper{float:left;width:716px;}
+.menu-list{float:left;margin-right:6px;margin-top:9px;width:392px;}
+.search-bar input{float:left;margin-right:10px;margin-top:13px;width:223px;padding:5px;}
+.image2{float:right;width:63px;border-left:1px solid #594e4e;}
+.header2{overflow:hidden;padding:10px;background:#a49191;}
+.imageDiv{margin-left:17px;position:relative;}
+.slider{float:left;position:absolute;top:31px;left:15px;}
+.left-slider{float:left;margin-right:15px;}
+.right-slider{float:left;}
+.pink-div{top:120px;position:absolute;opacity:0.68}

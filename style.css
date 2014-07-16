@@ -8,6 +8,9 @@
 
 .menu-list ul li{float:left;}
 .menu-list ul{list-style-type:none;margin:0px;padding:0px;}
+.menu-list ul li:hover ul{display:block;}
+.menu-list ul li ul{position:absolute;display:none;background:#5a93e9;}
+.menu-list ul li ul li{clear:both;}
 
 a:link,a:visited{
 	color:white;
