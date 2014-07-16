@@ -3,3 +3,18 @@
 .text1{font-family:"Myriad Pro";font-size:36px;font-weight:normal;color:#FFF}
 
 .text2{font-family:"Myriad Pro";font-size:12px;font-weight:normal;color:#FFF;}
+
+.sub-navigation-wrapper{background-color:#a49191;}
+
+.menu-list ul li{float:left;}
+.menu-list ul{list-style-type:none;margin:0px;padding:0px;}
+
+a:link,a:visited{
+	color:white;
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	}
+
+a:hover,a:active{background:#5a93e9};

@@ -1,8 +1,13 @@
 
-.mainDiv{width:1068px;background:#594e4e;margin:0px auto;}
-.header{
-	padding:9px;
-	}
-.logo-text-outside-wrapper{float:left;overflow:hidden;}
-.logo-text-inside-wrapper{float:left;overflow:hidden;}	
-
+.mainDiv{width:1068px;background:#594e4e;margin:0px auto;overflow:hidden;}
+.header{padding:9px;overflow:hidden;}
+.header1{overflow:hidden;}
+.logo-text-outside-wrapper{float:left;width:100%;}
+.logo-text-inside-wrapper{float:left;}
+.image1{float:left;margin-right:15px;margin-bottom:40px;}
+.textWrapper{float:left;}	
+.main-navigation-wrapper{width:100%;float:left;}
+.sub-navigation-wrapper{float:left;}
+.menu-list{float:left;margin-right:10px;position:relative;}
+.search-bar{float:left;margin-right:10px;}
+.image2{float:left;}
