@@ -7,12 +7,14 @@
 .sub-navigation-wrapper{background-color:#a49191;}
 
 .menu-list ul li{float:left;}
+
 .menu-list ul{list-style-type:none;margin:0px;padding:0px;}
 .menu-list ul li:hover ul{display:block;}
-.menu-list ul li ul{position:absolute;display:none;background:#5a93e9;}
+.menu-list ul li ul{z-index:999;position:absolute;display:none;background:#5a93e9;}
 .menu-list ul li ul li{clear:both;}
 
-a:link,a:visited{
+
+.menu-list a:link,.menu-list a:visited{
 	color:white;
 	display:block;
 	text-align:center;
@@ -20,4 +22,23 @@ a:link,a:visited{
 	padding:10px;
 	}
 
-a:hover,a:active{background:#5a93e9};
+.menu-list a:hover,.menu-list a:active{background:#5a93e9;}
+
+.top{font-family:Arial;font-size:23px;margin-top:25px;margin-bottom:12px;}
+.middle{font-family:Arial;font-size:13px;margin-bottom:20px;}
+.bottom{font-family:Arial;font-size:13px;width:202px;height:24px;line-height:24px;background:#378796;color:white;text-align:center;}
+
+.topheader1{font-family:Arial;font-size:23px;margin-top:25px;margin-bottom:12px;}
+.content1{font-family:Arial;font-size:13px;margin-bottom:20px;}
+.bottomfooter1{font-family:Arial;font-size:13px;width:202px;height:24px;line-height:24px;background:#378796;color:white;text-align:center;}
+
+
+
+.apple{font-family:Arial;font-size:12px;}
+.ball{font-family:Arial;font-size:12px;}
+.cat{font-family:Arial;font-size:12px;}
+.dog{font-family:Arial;font-size:12px;}
+
+.footer-bottom-inside ul li{float:left;}
+.footer-bottom-inside ul{list-style-type:none;margin:0;padding:0px;overflow:hidden;}
+
