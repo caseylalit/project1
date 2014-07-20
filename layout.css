@@ -75,7 +75,7 @@
 
 .footer{width:100%;overflow:hidden;}
 
-.footer-top-wrapper{width:100%;overflow:hidden;border-top:1px solid #b2b2b2;border-bottom:1px solid #b2b2b2;padding-left:55px;padding-right:29px;background: url(images/back.png);}
+.footer-top-wrapper{width:100%;overflow:hidden;border-top:1px solid #b2b2b2;padding-left:55px;padding-right:29px;background:url(images/back.png);}
 
 .footer-bottom-wrapper{width:100%;overflow:hidden;}
 
@@ -103,5 +103,12 @@
 .dog-left{width:50px;float:left;}
 .dog-right{width:140px;float:right;}
 
-.footer-bottom{width:100%;overflow:hidden;;}
-.footer-bottom-inside{width:100%;float:left;background:white;margin-left:27px;}
+.footer-bottom{width:100%;overflow:hidden;border-bottom:1px solid #dcdcdc;}
+.footer-bottom-inside{width:261px;float:left;background:white;margin-left:27px;font-size:12px;line-height:32px;}
+
+.last-footer-wrapper{background:url(Images/lastpic.png);overflow:hidden;width:100%;}
+.last-footer-top-wrapper{width:100%;overflow:hidden;}
+.last-footer-top-left-wrapper{float:left;width:168px;margin-right:14px;margin-left:40px;}
+.last-footer-top-right-wrapper{float:right;width:791px;}
+
+.last-footer-bottom-right-wrapper{float: right;font-size: 11px;margin-right: 58px;}
